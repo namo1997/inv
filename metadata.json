@@ -1,0 +1,7 @@
+{
+  "name": "โปรแกรมออกใบกำกับภาษี",
+  "description": "ระบบออกใบกำกับภาษีสำหรับร้านอาหารจดทะเบียน VAT เชื่อมต่อ VAT Service กรมสรรพากร พิมพ์มาตรฐาน A4",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

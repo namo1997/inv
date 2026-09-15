@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "restaurantName": "บริษัท โซลาว จำกัด",
+    "taxId": "0505559001193",
+    "address": "เลขที่ 122/19 หมู่ที่ 6 ตำบลสุเทพ อำเภอเมืองเชียงใหม่ จังหวัดเชียงใหม่ 50200",
+    "phone": "053-811-288",
+    "isHeadOffice": true,
+    "branchNumber": "00000",
+    "branchName": "สำนักงานใหญ่",
+    "logo": null,
+    "vatRate": 7,
+    "defaultPriceIncludesVat": true,
+    "defaultIssuerName": "เจ้าหน้าที่ออกใบกำกับภาษี",
+    "pin": "197019",
+    "updatedAt": "2026-09-15T13:13:27.136Z"
+  },
+  "customers": [
+    {
+      "id": "cust-sample-1",
+      "taxId": "0107544000108",
+      "name": "บริษัท ปตท. จำกัด (มหาชน)",
+      "address": "เลขที่ 555 ถนนวิภาวดีรังสิต แขวงจตุจักร เขตจตุจักร กรุงเทพมหานคร 10900",
+      "isHeadOffice": true,
+      "branchNumber": "00000",
+      "branchName": "สำนักงานใหญ่",
+      "phone": "02-537-2000",
+      "source": "rd_service",
+      "lastUsedAt": "2026-09-15T12:37:24.001Z"
+    }
+  ],
+  "invoices": []
+}
